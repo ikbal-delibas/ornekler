@@ -17,7 +17,7 @@ namespace Koleksiyonlar
             myList.Add("d");
             myList.Add("e");
             myList.Add("f");
-            
+            myList.Yazdir();
             
         }
     }

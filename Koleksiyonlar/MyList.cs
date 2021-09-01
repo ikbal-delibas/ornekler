@@ -31,5 +31,12 @@ namespace Koleksiyonlar
 
             
         }
+        public void Yazdir()
+        {
+            for (int i = 0; i < items.Length; i++)
+            {
+                Console.WriteLine(items[i]);
+            }
+        }
     }
 }
